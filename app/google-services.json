@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "47339028689",
+    "firebase_url": "https://wibber-1125f.firebaseio.com",
+    "project_id": "wibber-1125f",
+    "storage_bucket": "wibber-1125f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47339028689:android:57c7bfd62f220da9",
+        "android_client_info": {
+          "package_name": "com.instagram.wibber.wibber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47339028689-k71im9qm44dav5utfpk74e2fenll046l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instagram.wibber.wibber",
+            "certificate_hash": "b6abe2d3dcd28e1cfe639396d4019a719c4a41b9"
+          }
+        },
+        {
+          "client_id": "47339028689-89ksfql688u0fpun86dr5r4r7v4o9297.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsrHjaF2KPzjfGqxLqKZm86KnYfRNuy7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47339028689-89ksfql688u0fpun86dr5r4r7v4o9297.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
